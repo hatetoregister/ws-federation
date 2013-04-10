@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelyingParty.WebForms", "RelyingParty.WebForms\RelyingParty.WebForms.csproj", "{B7C81A89-081D-4F99-B2DF-6670729FE127}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelyingParty.Mvc", "RelyingParty.Mvc\RelyingParty.Mvc.csproj", "{B8652885-3C7B-4919-A4C9-88B32E638FF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelyingParty.WebApi", "RelyingParty.WebApi\RelyingParty.WebApi.csproj", "{2D930340-DC88-4847-AA97-1614133BF628}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7C81A89-081D-4F99-B2DF-6670729FE127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C81A89-081D-4F99-B2DF-6670729FE127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C81A89-081D-4F99-B2DF-6670729FE127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C81A89-081D-4F99-B2DF-6670729FE127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8652885-3C7B-4919-A4C9-88B32E638FF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8652885-3C7B-4919-A4C9-88B32E638FF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8652885-3C7B-4919-A4C9-88B32E638FF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8652885-3C7B-4919-A4C9-88B32E638FF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D930340-DC88-4847-AA97-1614133BF628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D930340-DC88-4847-AA97-1614133BF628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D930340-DC88-4847-AA97-1614133BF628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D930340-DC88-4847-AA97-1614133BF628}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
