@@ -11,7 +11,7 @@
             <p class="message-success"><%: SuccessMessage %></p>
         </asp:PlaceHolder>
 
-        <p>You're logged in as <strong><%: User.Identity.Name %></strong>.</p>
+        <p>You're logged in as <strong><%: User.Identity.Name %></strong>. You are in the role of <strong><%: StsRoleName %></strong>.</p>
 
         <asp:PlaceHolder runat="server" ID="setPassword" Visible="false">
             <p>
